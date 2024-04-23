@@ -1,0 +1,2 @@
+# EduNova
+EduNova是一个创新的在线学习系统，旨在通过先进的Multi-Agent技术和Retrieval-Augmented Generation（RAG）技术，为包括学生，各领域从业者在内的任何学习者提供个性化、高效、科学的学习体验。EduNova通过一系列智能代理（Agent）协作，实现从知识提取到知识巩固的全流程学习支持，从以下四个方面帮助用户以更有趣和有效的方式掌握所需知识。
